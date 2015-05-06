@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gior.skeleton.example.data.repository.datasource.DiskUserDataStoreTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-05-06T09:37:29" hostname="Tomass-MacBook-Pro.local" time="0.047">
+  <properties/>
+  <testcase name="testGetUserEntityListUnsupported" classname="com.gior.skeleton.example.data.repository.datasource.DiskUserDataStoreTest" time="0.029"/>
+  <testcase name="testGetUserEntityDetailesFromCache" classname="com.gior.skeleton.example.data.repository.datasource.DiskUserDataStoreTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
