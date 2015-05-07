@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gior.skeleton.data">
+
+    <application android:allowBackup="true" />
+</manifest>

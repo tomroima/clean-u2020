@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":data-test" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" external.system.module.group="Skeleton" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":data-test" />
+      </configuration>
+    </facet>
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/build" />
+        <option name="BUILDABLE" value="true" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/build/classes/main" />
+    <output-test url="file://$MODULE_DIR$/build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="data" exported="" />
+    <orderEntry type="library" exported="" scope="TEST" name="junit-4.11" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="mockito-core-1.9.5" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="robolectric-2.4" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="hamcrest-core-1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="robolectric-annotations-2.4" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="sqlite4java-0.282" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="asm-5.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="asm-commons-5.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="asm-util-5.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="asm-analysis-5.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="commons-logging-1.1.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="commons-codec-1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="httpclient-4.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="vtd-xml-2.11" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="maven-ant-tasks-2.1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="ant-1.8.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="asm-tree-5.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="httpcore-4.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="ant-launcher-1.8.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="objenesis-1.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="timber-3.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="gson-2.3.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="rxandroid-0.24.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="dagger-2.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="picasso-2.5.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="retrofit-1.9.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="okhttp-2.3.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="_Users_tomasroigmartinez_Development_App_clean_u2020_Skeleton_data_build_intermediates_exploded_aar_net_danlew_android_joda_2_7_1_jars_classes_jar" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="joda-time-2.7-no-tzdb" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-annotations-22.1.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="rxjava-1.0.9" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="javax.annotation-10.0-b28" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="javax.inject-1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="domain" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="_Users_tomasroigmartinez_Development_App_clean_u2020_Skeleton_data_build_intermediates_exploded_aar_com_android_support_support_v4_22_1_0_jars_classes_jar" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="okio-1.3.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="_Users_tomasroigmartinez_Development_App_clean_u2020_Skeleton_data_build_intermediates_classes_debug" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="_Users_tomasroigmartinez_Development_App_clean_u2020_Skeleton_data_build_intermediates_dependency_cache_debug" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="android" level="project" />
+  </component>
+</module>
