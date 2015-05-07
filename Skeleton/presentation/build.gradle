@@ -54,6 +54,14 @@ dependencies {
     compile presentationDependencies.rxJava
     compile presentationDependencies.rxAndroid
     provided presentationDependencies.javaxAnnotation
+    //Additions
+    compile presentationDependencies.androidSupport_v4
+    compile presentationDependencies.androidAppcompat_v7
+    compile presentationDependencies.timber
+    compile presentationDependencies.byteUnits
+    compile presentationDependencies.madge
+    compile presentationDependencies.scalpel
+    compile presentationDependencies.telescope
 
     androidTestCompile presentationTestDependencies.mockito
     androidTestCompile presentationTestDependencies.dexmaker

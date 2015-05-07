@@ -47,4 +47,10 @@ dependencies {
     compile dataDependencies.rxJava
     compile dataDependencies.rxAndroid
     compile dataDependencies.androidAnnotations
+    //Additions
+    compile dataDependencies.androidSupport_v4
+    compile dataDependencies.picasso
+    compile dataDependencies.retrofit
+    compile dataDependencies.timber
+    compile dataDependencies.joda
 }

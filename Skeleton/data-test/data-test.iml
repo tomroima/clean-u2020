@@ -48,15 +48,21 @@
     <orderEntry type="library" exported="" scope="TEST" name="httpcore-4.0.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="ant-launcher-1.8.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="objenesis-1.3" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="dagger-2.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="timber-3.0.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="gson-2.3.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="rxandroid-0.24.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="gson-2.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="dagger-2.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="picasso-2.5.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="retrofit-1.9.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="okhttp-2.3.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="_Users_tomasroigmartinez_Development_App_clean_u2020_Skeleton_data_build_intermediates_exploded_aar_net_danlew_android_joda_2_7_1_jars_classes_jar" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="joda-time-2.7-no-tzdb" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="support-annotations-22.1.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="rxjava-1.0.9" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="javax.annotation-10.0-b28" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="javax.inject-1" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="okhttp-2.3.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="domain" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="_Users_tomasroigmartinez_Development_App_clean_u2020_Skeleton_data_build_intermediates_exploded_aar_com_android_support_support_v4_22_1_0_jars_classes_jar" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="okio-1.3.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="_Users_tomasroigmartinez_Development_App_clean_u2020_Skeleton_data_build_intermediates_classes_debug" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="_Users_tomasroigmartinez_Development_App_clean_u2020_Skeleton_data_build_intermediates_dependency_cache_debug" level="project" />
