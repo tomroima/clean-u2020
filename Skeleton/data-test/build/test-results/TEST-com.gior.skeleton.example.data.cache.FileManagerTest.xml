@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.gior.skeleton.example.data.cache.FileManagerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-05-06T09:37:22" hostname="Tomass-MacBook-Pro.local" time="6.13">
-  <properties/>
-  <testcase name="testFileContent" classname="com.gior.skeleton.example.data.cache.FileManagerTest" time="6.105"/>
-  <testcase name="testWriteToFile" classname="com.gior.skeleton.example.data.cache.FileManagerTest" time="0.019"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[WARNING: no system properties value for ro.build.date.utc
-]]></system-err>
-</testsuite>

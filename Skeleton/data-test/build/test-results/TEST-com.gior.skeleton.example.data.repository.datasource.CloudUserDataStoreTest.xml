@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.gior.skeleton.example.data.repository.datasource.CloudUserDataStoreTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-05-06T09:37:29" hostname="Tomass-MacBook-Pro.local" time="0.055">
-  <properties/>
-  <testcase name="testGetUserEntityListFromApi" classname="com.gior.skeleton.example.data.repository.datasource.CloudUserDataStoreTest" time="0.038"/>
-  <testcase name="testGetUserEntityDetailsFromApi" classname="com.gior.skeleton.example.data.repository.datasource.CloudUserDataStoreTest" time="0.016"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
